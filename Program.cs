@@ -36,7 +36,7 @@ namespace InternetOK
             {
                 From = new MailAddress("castelloesjf@gmail.com"),
                 Subject = "Internet Status",
-                Body = "<h1>Ok</h1>",
+                Body = "<h1>Internet is Ok!</h1>",
                 IsBodyHtml = true,
             };
             message.To.Add("castelloesjf@hotmail.com");
